@@ -20,5 +20,6 @@ public class PlusAndAvg {
 		System.out.println("자바 점수 : " + java);
 		System.out.println("총점 : " + sum);
 		System.out.println("평균 : " + avg);
+		sc.close();
 	}
 }
