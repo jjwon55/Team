@@ -22,5 +22,7 @@ public class Triangle {
 		for (char[] cs : arr) {
 			System.out.println(cs);
 		}
+		
+		sc.close();
 	}
 }
